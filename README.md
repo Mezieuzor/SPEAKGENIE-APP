@@ -37,6 +37,8 @@ Build for Production
 bashnpm run build
 npm start
 📁 Folder Structure
+
+
 project-root/
 ├── app/                          # Next.js 13+ App Directory
 │   ├── page.tsx                  # Home page (main entry)
