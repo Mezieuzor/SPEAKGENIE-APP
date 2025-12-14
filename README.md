@@ -1,4 +1,6 @@
-SPEAKGENIE APPLICATION
+🚀 🚀 🚀SPEAKGENIE APPLICATION🚀 🚀 🚀 
+
+
 Language Learning App - Home Screen
 A modern, interactive language learning application built with Next.js, featuring gamification elements, peer practice, AI conversations, and audio stories.
 🚀 How to Run This Project
@@ -36,46 +38,9 @@ Navigate to http://localhost:3000
 Build for Production
 bashnpm run build
 npm start
-📁 Folder Structure
+<img width="863" height="801" alt="Screenshot 2025-12-14 4 32 04 PM" src="https://github.com/user-attachments/assets/8cd36dc2-5dbc-4704-bea0-49713b9d910c" />
+<img width="863" height="378" alt="Screenshot 2025-12-14 4 32 21 PM" src="https://github.com/user-attachments/assets/022ce571-ed3b-4166-8e74-926300ef60fb" />
 
-
-project-root/
-├── app/                          # Next.js 13+ App Directory
-│   ├── page.tsx                  # Home page (main entry)
-│   ├── layout.tsx                # Root layout with providers
-│   ├── player/                   # Audio player route
-│   │   └── page.tsx
-│   └── quiz/                     # Quiz/learning route
-│       └── page.tsx
-│
-├── components/                   # React Components
-│   ├── ui/                       # shadcn/ui components
-│   │   ├── avatar.tsx
-│   │   ├── badge.tsx
-│   │   └── card.tsx
-│   └── HomeScreen.tsx            # Main home screen component
-│
-├── public/                       # Static assets
-│   ├── avatar.png                # User avatar image
-│   ├── vadim.jpg                 # AI character images
-│   ├── a1.png
-│   ├── fantasy-story-book-cover-forest-path.png
-│   ├── mysterious-forest-path-adventure.png
-│   ├── friendship-courage.jpg
-│   └── images/
-│       └── story-2.jpg
-│
-├── lib/                          # Utility functions
-│   └── utils.ts                  # Helper functions
-│
-├── styles/                       # Global styles
-│   └── globals.css               # Tailwind CSS imports
-│
-├── tailwind.config.ts            # Tailwind configuration
-├── tsconfig.json                 # TypeScript configuration
-├── next.config.js                # Next.js configuration
-├── package.json                  # Dependencies
-└── README.md                     # This file
 🎯 Key Features
 
 🔧 Assumptions Made
